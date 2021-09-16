@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "525351446580",
+    "project_id": "krishworkproject",
+    "storage_bucket": "krishworkproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525351446580:android:e916c1a6ad9c4afe3bc261",
+        "android_client_info": {
+          "package_name": "com.example.krishworks_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525351446580-09asds3qtg2obeuns425g1gvul0050qn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.krishworks_app",
+            "certificate_hash": "e091053dbfa6323b2ff826193ea6fd0f1197a9ce"
+          }
+        },
+        {
+          "client_id": "525351446580-kf05sr8j5p2pbteha4sequunne81ouqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE6dFc3XHJ4Oi4hXIQwTiSS1W9Kg5OmkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525351446580-kf05sr8j5p2pbteha4sequunne81ouqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
